@@ -66,6 +66,5 @@ The project notebook relies on fundamental Python libraries for data science and
 ---
 **How to Run:**
 1. Clone the repository.
-2. **Important:** Create an `images/` directory and save your plot images inside it using the filenames: `Image 5.png`, `Image 3.png`, and `Image 2.png`.
-3. Install dependencies: `pip install pandas numpy scikit-learn matplotlib seaborn kneed`
-4. Run the Jupyter notebook: `customer_segmentation.ipynb`
+2. Install dependencies: `pip install pandas numpy scikit-learn matplotlib seaborn kneed`
+3. Run the Jupyter notebook: ![Bank_client_segmentation.ipynb](notebook/Bank_client_segmentation.ipynb) (use the dataset ![bank-additional-full.csv](original_dataset/bank-additional-full.csv))
